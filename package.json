@@ -2,7 +2,7 @@
   "name": "link.pulsate.dev",
   "module": "index.ts",
   "type": "module",
-  "packageManager": "bun@1.0.33",
+  "packageManager": "bun@1.3.9",
   "private": true,
   "author": {
     "name": "Pulsate",
